@@ -83,7 +83,7 @@ SOFTWARE.
 
 ## Authors Info
 
-LinkedIn - [Newton Ombese](https://www.linkedin.com/in/newton-ombese-570862210/)
+Zakaria Ali
 
 
 # ENJOY AND TAKE TIME TO LEARN CODING
